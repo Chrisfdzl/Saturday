@@ -1,0 +1,4685 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/22/2017",
+        "Restaurant_Name": "STARBUCKS COFFEE #5787",
+        "Pe_Description": "RESTAURANT (31-60) SEATS LOW RISK",
+        "Address": "1788 WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804322,
+        "Long": -118.169851
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169851,
+          33.804322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/6/2017",
+        "Restaurant_Name": "TARGET #2319 - FOOD SERVICE",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "950 E 33RD ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 85,
+        "Grade": "B",
+        "Lat": 33.817057,
+        "Long": -118.181773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.181773,
+          33.817057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/10/2017",
+        "Restaurant_Name": "ROCCO'S DELI ITALIANO",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2420 E 28TH ST STE 1",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 76,
+        "Grade": "C",
+        "Lat": 33.808036,
+        "Long": -118.162505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.162505,
+          33.808036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/20/2017",
+        "Restaurant_Name": "JACK IN THE BOX #5409",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "801 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 78,
+        "Grade": "C",
+        "Lat": 33.81164,
+        "Long": -118.182507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.182507,
+          33.81164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/1/2017",
+        "Restaurant_Name": "TUTTI FRUTTI FROZEN YOGURT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS LOW RISK",
+        "Address": "2170 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 76,
+        "Grade": "C",
+        "Lat": 33.80433,
+        "Long": -118.16621
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16621,
+          33.80433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/3/2017",
+        "Restaurant_Name": "CHIPOTLE MEXICAN GRILL #2320",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "959 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.811642,
+        "Long": -118.181092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.181092,
+          33.811642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/5/2017",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - DELI DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/15/2017",
+        "Restaurant_Name": "BIG E PIZZA",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "3225 E PACIFIC COAST HWY STE C",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 72,
+        "Grade": "C",
+        "Lat": 33.789853,
+        "Long": -118.153836
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.153836,
+          33.789853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/18/2017",
+        "Restaurant_Name": "APPLEBEE'S NEIGHBORHOOD GRILL & BAR",
+        "Pe_Description": "RESTAURANT (151 + ) SEATS HIGH RISK",
+        "Address": "899 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 80,
+        "Grade": "B",
+        "Lat": 33.811641,
+        "Long": -118.18168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18168,
+          33.811641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/27/2017",
+        "Restaurant_Name": "JACK IN THE BOX #5409",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "801 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "OWNER INITIATED ROUTINE INSPECT.",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.81164,
+        "Long": -118.182507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.182507,
+          33.81164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/9/2017",
+        "Restaurant_Name": "MATT AND NAT BAKERY GROUP",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "2325 REDONDO AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 99,
+        "Grade": "A",
+        "Lat": 33.799058,
+        "Long": -118.151391
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.151391,
+          33.799058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/28/2017",
+        "Restaurant_Name": "GD BRO BURGER",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "1798 E WILLOW ST # B",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 80,
+        "Grade": "B",
+        "Lat": 33.804328,
+        "Long": -118.169615
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169615,
+          33.804328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/19/2017",
+        "Restaurant_Name": "IN-N-OUT BURGER #265",
+        "Pe_Description": "RESTAURANT (61-150) SEATS MODERATE RISK",
+        "Address": "799 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 92,
+        "Grade": "A",
+        "Lat": 33.811698,
+        "Long": -118.183374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.183374,
+          33.811698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/22/2017",
+        "Restaurant_Name": "FOOD 4 LESS #772 - DELI DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "1600 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804303,
+        "Long": -118.170487
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.170487,
+          33.804303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/26/2017",
+        "Restaurant_Name": "JACK IN THE BOX #213",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "3399 E PACIFIC COAST HWY",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 75,
+        "Grade": "C",
+        "Lat": 33.789851,
+        "Long": -118.152197
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.152197,
+          33.789851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/18/2017",
+        "Restaurant_Name": "DELIUS RESTAURANT",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2951 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 81,
+        "Grade": "B",
+        "Lat": 33.811093,
+        "Long": -118.167692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.167692,
+          33.811093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "11/9/2017",
+        "Restaurant_Name": "KASHIWA RESTAURANT",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST STE #G",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 88,
+        "Grade": "B",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/12/2017",
+        "Restaurant_Name": "FISH-O-LICIOUS SIGNAL HILL",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2594 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 75,
+        "Grade": "C",
+        "Lat": 33.803759,
+        "Long": -118.167519
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.167519,
+          33.803759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/12/2017",
+        "Restaurant_Name": "CHINESE COMBO",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2160 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 88,
+        "Grade": "B",
+        "Lat": 33.804321,
+        "Long": -118.166498
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166498,
+          33.804321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/25/2017",
+        "Restaurant_Name": "MATT AND NAT BAKERY GROUP",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "2325 REDONDO AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 99,
+        "Grade": "A",
+        "Lat": 33.799058,
+        "Long": -118.151391
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.151391,
+          33.799058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "9/19/2017",
+        "Restaurant_Name": "STARBUCKS",
+        "Pe_Description": "RESTAURANT (31-60) SEATS LOW RISK",
+        "Address": "999 SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 87,
+        "Grade": "B",
+        "Lat": 33.811642,
+        "Long": -118.180677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.180677,
+          33.811642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/16/2017",
+        "Restaurant_Name": "WABA GRILL",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2162 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 86,
+        "Grade": "B",
+        "Lat": 33.804324,
+        "Long": -118.166393
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166393,
+          33.804324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/19/2017",
+        "Restaurant_Name": "PANINIS",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "1825 REDONDO AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 79,
+        "Grade": "C",
+        "Lat": 33.790646,
+        "Long": -118.151818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.151818,
+          33.790646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/26/2017",
+        "Restaurant_Name": "CHINESE GOURMET",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "1810 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 81,
+        "Grade": "B",
+        "Lat": 33.804328,
+        "Long": -118.169427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169427,
+          33.804328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/19/2017",
+        "Restaurant_Name": "GOLDEN EAGLE RESTAURANT",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2101 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 70,
+        "Grade": "C",
+        "Lat": 33.804486,
+        "Long": -118.166194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166194,
+          33.804486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "1/13/2018",
+        "Restaurant_Name": "MCDONALD'S #23514",
+        "Pe_Description": "RESTAURANT (61-150) SEATS MODERATE RISK",
+        "Address": "2599 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "OWNER INITIATED ROUTINE INSPECT.",
+        "Score": 96,
+        "Grade": "A",
+        "Lat": 33.803972,
+        "Long": -118.167683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.167683,
+          33.803972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "2/6/2018",
+        "Restaurant_Name": "HONEYSUCKLE",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "3199 E PACIFIC COAST HWY STE 101",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 76,
+        "Grade": "C",
+        "Lat": 33.789853,
+        "Long": -118.155009
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.155009,
+          33.789853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "1/6/2018",
+        "Restaurant_Name": "JACK IN THE BOX #5409",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "801 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 87,
+        "Grade": "B",
+        "Lat": 33.81164,
+        "Long": -118.182507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.182507,
+          33.81164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "1/12/2018",
+        "Restaurant_Name": "CHAMP'S CAFE",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "3200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "OWNER INITIATED ROUTINE INSPECT.",
+        "Score": 94,
+        "Grade": "A",
+        "Lat": 33.804359,
+        "Long": -118.154139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.154139,
+          33.804359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "1/6/2018",
+        "Restaurant_Name": "DEL TACO #984",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "1801 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 81,
+        "Grade": "B",
+        "Lat": 33.804471,
+        "Long": -118.169256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169256,
+          33.804471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "1/3/2018",
+        "Restaurant_Name": "CHAMP'S CAFE",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "3200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 85,
+        "Grade": "B",
+        "Lat": 33.804359,
+        "Long": -118.154139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.154139,
+          33.804359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "11/17/2017",
+        "Restaurant_Name": "SUBWAY # 13507",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "2150 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.80432,
+        "Long": -118.166525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166525,
+          33.80432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/27/2017",
+        "Restaurant_Name": "CURLEY'S CAFE",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "1999 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804478,
+        "Long": -118.16793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16793,
+          33.804478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/20/2017",
+        "Restaurant_Name": "TARGET #2319 - FOOD SERVICE",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "950 E 33RD ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 81,
+        "Grade": "B",
+        "Lat": 33.817057,
+        "Long": -118.181773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.181773,
+          33.817057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/27/2017",
+        "Restaurant_Name": "TOGO'S",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "1889 WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 92,
+        "Grade": "A",
+        "Lat": 33.804472,
+        "Long": -118.168869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.168869,
+          33.804472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/6/2017",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - BAKERY DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/27/2017",
+        "Restaurant_Name": "FANTASY CASTLE",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2800 E WALNUT AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 75,
+        "Grade": "C",
+        "Lat": 33.808537,
+        "Long": -118.171997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.171997,
+          33.808537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "1/6/2018",
+        "Restaurant_Name": "MCDONALD'S #23514",
+        "Pe_Description": "RESTAURANT (61-150) SEATS MODERATE RISK",
+        "Address": "2599 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 75,
+        "Grade": "C",
+        "Lat": 33.803972,
+        "Long": -118.167683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.167683,
+          33.803972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "1/9/2018",
+        "Restaurant_Name": "APPLEBEE'S NEIGHBORHOOD GRILL & BAR",
+        "Pe_Description": "RESTAURANT (151 + ) SEATS HIGH RISK",
+        "Address": "899 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 87,
+        "Grade": "B",
+        "Lat": 33.811641,
+        "Long": -118.18168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18168,
+          33.811641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/4/2017",
+        "Restaurant_Name": "FOOD 4 LESS #772 - DELI DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "1600 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 93,
+        "Grade": "A",
+        "Lat": 33.804303,
+        "Long": -118.170487
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.170487,
+          33.804303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "1/22/2018",
+        "Restaurant_Name": "DEL TACO #984",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "1801 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "OWNER INITIATED ROUTINE INSPECT.",
+        "Score": 81,
+        "Grade": "B",
+        "Lat": 33.804471,
+        "Long": -118.169256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169256,
+          33.804471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/27/2017",
+        "Restaurant_Name": "GD BRO BURGER",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "1798 E WILLOW ST # B",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 96,
+        "Grade": "A",
+        "Lat": 33.804328,
+        "Long": -118.169615
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169615,
+          33.804328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/11/2017",
+        "Restaurant_Name": "5 STAR TERIYAKI & BBQ",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST #B",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/6/2017",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - PIZZA KITCHEN",
+        "Pe_Description": "RESTAURANT (61-150) SEATS MODERATE RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 82,
+        "Grade": "B",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/14/2017",
+        "Restaurant_Name": "SUB KING",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST E",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/13/2017",
+        "Restaurant_Name": "SUBWAY",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "3225 E PACIFIC COAST HWY",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.789853,
+        "Long": -118.153836
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.153836,
+          33.789853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/19/2017",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - PIZZA KITCHEN",
+        "Pe_Description": "RESTAURANT (61-150) SEATS MODERATE RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "OWNER INITIATED ROUTINE INSPECT.",
+        "Score": 97,
+        "Grade": "A",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/14/2017",
+        "Restaurant_Name": "FOSTER'S FAMILY DONUTS",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "2201 E WILLOW ST STE F",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 73,
+        "Grade": "C",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "2/12/2018",
+        "Restaurant_Name": "ROCCO'S DELI ITALIANO",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2420 E 28TH ST STE 1",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 80,
+        "Grade": "B",
+        "Lat": 33.808036,
+        "Long": -118.162505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.162505,
+          33.808036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "4/7/2018",
+        "Restaurant_Name": "CHINESE COMBO",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2160 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.804321,
+        "Long": -118.166498
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166498,
+          33.804321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "4/15/2018",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - BAKERY DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "2/27/2018",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - DELI DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 96,
+        "Grade": "A",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "4/7/2018",
+        "Restaurant_Name": "SUBWAY # 13507",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "2150 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 88,
+        "Grade": "B",
+        "Lat": 33.80432,
+        "Long": -118.166525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166525,
+          33.80432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "4/12/2018",
+        "Restaurant_Name": "CHINESE GOURMET",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "1810 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 75,
+        "Grade": "C",
+        "Lat": 33.804328,
+        "Long": -118.169427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169427,
+          33.804328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "4/7/2018",
+        "Restaurant_Name": "WABA GRILL",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2162 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 85,
+        "Grade": "B",
+        "Lat": 33.804324,
+        "Long": -118.166393
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166393,
+          33.804324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "3/6/2018",
+        "Restaurant_Name": "BLACK BEAR DINER",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "1898 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 73,
+        "Grade": "C",
+        "Lat": 33.804323,
+        "Long": -118.168765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.168765,
+          33.804323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "4/10/2018",
+        "Restaurant_Name": "IN-N-OUT BURGER #265",
+        "Pe_Description": "RESTAURANT (61-150) SEATS MODERATE RISK",
+        "Address": "799 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.811698,
+        "Long": -118.183374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.183374,
+          33.811698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "2/9/2018",
+        "Restaurant_Name": "CHIPOTLE MEXICAN GRILL #2320",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "959 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 83,
+        "Grade": "B",
+        "Lat": 33.811642,
+        "Long": -118.181092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.181092,
+          33.811642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "3/31/2018",
+        "Restaurant_Name": "GOLDEN EAGLE RESTAURANT",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2101 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 72,
+        "Grade": "C",
+        "Lat": 33.804486,
+        "Long": -118.166194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166194,
+          33.804486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "2/28/2018",
+        "Restaurant_Name": "PANINIS",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "1825 REDONDO AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.790646,
+        "Long": -118.151818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.151818,
+          33.790646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "2/20/2018",
+        "Restaurant_Name": "BIG E PIZZA",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "3225 E PACIFIC COAST HWY STE C",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 71,
+        "Grade": "C",
+        "Lat": 33.789853,
+        "Long": -118.153836
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.153836,
+          33.789853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "4/15/2018",
+        "Restaurant_Name": "FOOD 4 LESS #772 - DELI DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "1600 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.804303,
+        "Long": -118.170487
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.170487,
+          33.804303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "4/18/2018",
+        "Restaurant_Name": "FISH-O-LICIOUS SIGNAL HILL",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2594 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 77,
+        "Grade": "C",
+        "Lat": 33.803759,
+        "Long": -118.167519
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.167519,
+          33.803759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/17/2018",
+        "Restaurant_Name": "HONEYSUCKLE",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "3199 E PACIFIC COAST HWY STE 101",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 75,
+        "Grade": "C",
+        "Lat": 33.789853,
+        "Long": -118.155009
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.155009,
+          33.789853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/9/2018",
+        "Restaurant_Name": "CHAMP'S CAFE",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "3200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 86,
+        "Grade": "B",
+        "Lat": 33.804359,
+        "Long": -118.154139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.154139,
+          33.804359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/11/2018",
+        "Restaurant_Name": "CURLEY'S CAFE",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "1999 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 76,
+        "Grade": "C",
+        "Lat": 33.804478,
+        "Long": -118.16793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16793,
+          33.804478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/18/2018",
+        "Restaurant_Name": "DELIUS RESTAURANT",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2951 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 76,
+        "Grade": "C",
+        "Lat": 33.811093,
+        "Long": -118.167692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.167692,
+          33.811093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/19/2018",
+        "Restaurant_Name": "MEMORIAL WEST ALUMNI",
+        "Pe_Description": "RESTAURANT (0-30) SEATS LOW RISK",
+        "Address": "835 E 33RD ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 95,
+        "Grade": "A",
+        "Lat": 33.817058,
+        "Long": -118.182054
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.182054,
+          33.817058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "4/27/2018",
+        "Restaurant_Name": "SUB KING",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST E",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 92,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/8/2018",
+        "Restaurant_Name": "MOTHER'S MARKET AND KITCHEN - DELI & JUICE BAR",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "2475 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 70,
+        "Grade": "C",
+        "Lat": 33.802063,
+        "Long": -118.16769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16769,
+          33.802063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/1/2018",
+        "Restaurant_Name": "KASHIWA RESTAURANT",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST STE #G",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/10/2018",
+        "Restaurant_Name": "TARGET #2319 - FOOD SERVICE",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "950 E 33RD ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 93,
+        "Grade": "A",
+        "Lat": 33.817057,
+        "Long": -118.181773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.181773,
+          33.817057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/13/2018",
+        "Restaurant_Name": "FANTASY CASTLE",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2800 E WALNUT AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 81,
+        "Grade": "B",
+        "Lat": 33.808537,
+        "Long": -118.171997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.171997,
+          33.808537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/22/2018",
+        "Restaurant_Name": "STARBUCKS COFFEE #5787",
+        "Pe_Description": "RESTAURANT (31-60) SEATS LOW RISK",
+        "Address": "1788 WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 99,
+        "Grade": "A",
+        "Lat": 33.804322,
+        "Long": -118.169851
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169851,
+          33.804322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/14/2018",
+        "Restaurant_Name": "CHIPOTLE MEXICAN GRILL #2320",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "959 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 80,
+        "Grade": "B",
+        "Lat": 33.811642,
+        "Long": -118.181092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.181092,
+          33.811642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/2/2018",
+        "Restaurant_Name": "5 STAR TERIYAKI & BBQ",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST #B",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/19/2018",
+        "Restaurant_Name": "THE PALMS",
+        "Pe_Description": "RESTAURANT (61-150) SEATS LOW RISK",
+        "Address": "2540 N PALM DR",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 92,
+        "Grade": "A",
+        "Lat": 33.803163,
+        "Long": -118.155364
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.155364,
+          33.803163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/23/2018",
+        "Restaurant_Name": "HONEYSUCKLE",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "3199 E PACIFIC COAST HWY STE 101",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 86,
+        "Grade": "B",
+        "Lat": 33.789853,
+        "Long": -118.155009
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.155009,
+          33.789853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/11/2018",
+        "Restaurant_Name": "DEL TACO #984",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "1801 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 79,
+        "Grade": "C",
+        "Lat": 33.804471,
+        "Long": -118.169256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169256,
+          33.804471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/15/2018",
+        "Restaurant_Name": "CHINESE COMBO",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2160 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 78,
+        "Grade": "C",
+        "Lat": 33.804321,
+        "Long": -118.166498
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166498,
+          33.804321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/1/2018",
+        "Restaurant_Name": "ROCCO'S DELI ITALIANO",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2420 E 28TH ST STE 1",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 86,
+        "Grade": "B",
+        "Lat": 33.808036,
+        "Long": -118.162505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.162505,
+          33.808036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/26/2018",
+        "Restaurant_Name": "PANINIS",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "1825 REDONDO AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 92,
+        "Grade": "A",
+        "Lat": 33.790646,
+        "Long": -118.151818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.151818,
+          33.790646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "9/11/2018",
+        "Restaurant_Name": "CHINESE GOURMET",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "1810 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 81,
+        "Grade": "B",
+        "Lat": 33.804328,
+        "Long": -118.169427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169427,
+          33.804328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/18/2018",
+        "Restaurant_Name": "CHAMPS DELI RESTAURANT",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "3200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 85,
+        "Grade": "B",
+        "Lat": 33.804359,
+        "Long": -118.154139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.154139,
+          33.804359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/24/2018",
+        "Restaurant_Name": "MATT AND NAT BAKERY GROUP",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "2325 REDONDO AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 100,
+        "Grade": "A",
+        "Lat": 33.799058,
+        "Long": -118.151391
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.151391,
+          33.799058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "9/6/2018",
+        "Restaurant_Name": "MCDONALD'S #23514",
+        "Pe_Description": "RESTAURANT (61-150) SEATS MODERATE RISK",
+        "Address": "2599 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 87,
+        "Grade": "B",
+        "Lat": 33.803972,
+        "Long": -118.167683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.167683,
+          33.803972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/1/2018",
+        "Restaurant_Name": "CHAMPS DELI RESTAURANT",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "3200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "OWNER INITIATED ROUTINE INSPECT.",
+        "Score": 94,
+        "Grade": "A",
+        "Lat": 33.804359,
+        "Long": -118.154139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.154139,
+          33.804359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/3/2018",
+        "Restaurant_Name": "SUBWAY",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "3225 E PACIFIC COAST HWY",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.789853,
+        "Long": -118.153836
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.153836,
+          33.789853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/5/2018",
+        "Restaurant_Name": "TOGO'S",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "1889 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 74,
+        "Grade": "C",
+        "Lat": 33.804472,
+        "Long": -118.168869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.168869,
+          33.804472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/15/2018",
+        "Restaurant_Name": "WABA GRILL",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2162 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 89,
+        "Grade": "B",
+        "Lat": 33.804324,
+        "Long": -118.166393
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166393,
+          33.804324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/26/2018",
+        "Restaurant_Name": "BIG E PIZZA",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "3225 E PACIFIC COAST HWY STE C",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 80,
+        "Grade": "B",
+        "Lat": 33.789853,
+        "Long": -118.153836
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.153836,
+          33.789853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/20/2018",
+        "Restaurant_Name": "GD BRO BURGER",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "1798 E WILLOW ST # B",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 83,
+        "Grade": "B",
+        "Lat": 33.804328,
+        "Long": -118.169615
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169615,
+          33.804328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/28/2018",
+        "Restaurant_Name": "FOOD 4 LESS #772 - DELI DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "1600 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.804303,
+        "Long": -118.170487
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.170487,
+          33.804303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/1/2018",
+        "Restaurant_Name": "JACK IN THE BOX #5409",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "801 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.81164,
+        "Long": -118.182507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.182507,
+          33.81164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/20/2018",
+        "Restaurant_Name": "JACK IN THE BOX #213",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "3399 E PACIFIC COAST HWY",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 79,
+        "Grade": "C",
+        "Lat": 33.789851,
+        "Long": -118.152197
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.152197,
+          33.789851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/31/2018",
+        "Restaurant_Name": "SUB KING",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST E",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 97,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "9/19/2018",
+        "Restaurant_Name": "5 STAR TERIYAKI & BBQ",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST #B",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "11/13/2018",
+        "Restaurant_Name": "CHIPOTLE MEXICAN GRILL #2320",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "959 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 92,
+        "Grade": "A",
+        "Lat": 33.811642,
+        "Long": -118.181092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.181092,
+          33.811642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/18/2018",
+        "Restaurant_Name": "FANTASY CASTLE",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2800 E WALNUT AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.808537,
+        "Long": -118.171997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.171997,
+          33.808537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/10/2018",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - PIZZA KITCHEN",
+        "Pe_Description": "RESTAURANT (61-150) SEATS MODERATE RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 80,
+        "Grade": "B",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/17/2018",
+        "Restaurant_Name": "KASHIWA RESTAURANT",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST STE #G",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 94,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "11/28/2018",
+        "Restaurant_Name": "FOSTER'S FAMILY DONUTS",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "2201 E WILLOW ST STE F",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 87,
+        "Grade": "B",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "9/25/2018",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - DELI DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 96,
+        "Grade": "A",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/17/2018",
+        "Restaurant_Name": "FISH-O-LICIOUS SIGNAL HILL",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2594 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.803759,
+        "Long": -118.167519
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.167519,
+          33.803759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/17/2018",
+        "Restaurant_Name": "CURLEY'S CAFE",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "1999 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 78,
+        "Grade": "C",
+        "Lat": 33.804478,
+        "Long": -118.16793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16793,
+          33.804478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/11/2018",
+        "Restaurant_Name": "SUBWAY # 13507",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "2150 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 82,
+        "Grade": "B",
+        "Lat": 33.80432,
+        "Long": -118.166525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166525,
+          33.80432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "9/25/2018",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - BAKERY DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/17/2018",
+        "Restaurant_Name": "BLACK BEAR DINER",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "1898 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 92,
+        "Grade": "A",
+        "Lat": 33.804323,
+        "Long": -118.168765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.168765,
+          33.804323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "11/15/2018",
+        "Restaurant_Name": "FOOD 4 LESS #772 - DELI DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "1600 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 95,
+        "Grade": "A",
+        "Lat": 33.804303,
+        "Long": -118.170487
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.170487,
+          33.804303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/23/2018",
+        "Restaurant_Name": "GOLDEN EAGLE RESTAURANT",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2101 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 81,
+        "Grade": "B",
+        "Lat": 33.804486,
+        "Long": -118.166194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166194,
+          33.804486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/17/2018",
+        "Restaurant_Name": "APPLEBEE'S NEIGHBORHOOD GRILL & BAR",
+        "Pe_Description": "RESTAURANT (151 + ) SEATS HIGH RISK",
+        "Address": "899 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.811641,
+        "Long": -118.18168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18168,
+          33.811641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/17/2018",
+        "Restaurant_Name": "IN-N-OUT BURGER #265",
+        "Pe_Description": "RESTAURANT (61-150) SEATS MODERATE RISK",
+        "Address": "799 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 93,
+        "Grade": "A",
+        "Lat": 33.811698,
+        "Long": -118.183374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.183374,
+          33.811698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "11/7/2018",
+        "Restaurant_Name": "TUTTI FRUTTI FROZEN YOGURT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS LOW RISK",
+        "Address": "2170 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 86,
+        "Grade": "B",
+        "Lat": 33.80433,
+        "Long": -118.16621
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16621,
+          33.80433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "9/19/2018",
+        "Restaurant_Name": "MOTHER'S MARKET AND KITCHEN - DELI & JUICE BAR",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "2475 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 87,
+        "Grade": "B",
+        "Lat": 33.802063,
+        "Long": -118.16769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16769,
+          33.802063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/17/2018",
+        "Restaurant_Name": "CHIPOTLE MEXICAN GRILL #2320",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "959 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 92,
+        "Grade": "A",
+        "Lat": 33.811642,
+        "Long": -118.181092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.181092,
+          33.811642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/12/2018",
+        "Restaurant_Name": "SUB KING",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST E",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 94,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/18/2018",
+        "Restaurant_Name": "MOTHER'S MARKET AND KITCHEN - DELI & JUICE BAR",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "2475 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.802063,
+        "Long": -118.16769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16769,
+          33.802063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "1/17/2019",
+        "Restaurant_Name": "THE PALMS",
+        "Pe_Description": "RESTAURANT (61-150) SEATS LOW RISK",
+        "Address": "2540 N PALM DR",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 70,
+        "Grade": "C",
+        "Lat": 33.803163,
+        "Long": -118.155364
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.155364,
+          33.803163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "1/16/2019",
+        "Restaurant_Name": "HONEYSUCKLE",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "3199 E PACIFIC COAST HWY STE 101",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 78,
+        "Grade": "C",
+        "Lat": 33.789853,
+        "Long": -118.155009
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.155009,
+          33.789853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "1/18/2019",
+        "Restaurant_Name": "CHINESE GOURMET",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "1810 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 75,
+        "Grade": "C",
+        "Lat": 33.804328,
+        "Long": -118.169427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169427,
+          33.804328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "1/29/2019",
+        "Restaurant_Name": "TARGET #2319 - FOOD SERVICE",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "950 E 33RD ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.817057,
+        "Long": -118.181773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.181773,
+          33.817057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "2/5/2019",
+        "Restaurant_Name": "MATT AND NAT BAKERY GROUP",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "2325 REDONDO AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 100,
+        "Grade": "A",
+        "Lat": 33.799058,
+        "Long": -118.151391
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.151391,
+          33.799058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/12/2018",
+        "Restaurant_Name": "MANNA DONUTS",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "3199 E PACIFIC COAST HWY # 105",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 78,
+        "Grade": "C",
+        "Lat": 33.789853,
+        "Long": -118.155009
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.155009,
+          33.789853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "11/29/2018",
+        "Restaurant_Name": "CHAMPS DELI RESTAURANT",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "3200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.804359,
+        "Long": -118.154139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.154139,
+          33.804359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/12/2018",
+        "Restaurant_Name": "5 STAR TERIYAKI & BBQ",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST #B",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 93,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "1/30/2019",
+        "Restaurant_Name": "CHINESE COMBO",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2160 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 88,
+        "Grade": "B",
+        "Lat": 33.804321,
+        "Long": -118.166498
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166498,
+          33.804321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "4/11/2019",
+        "Restaurant_Name": "STARBUCKS COFFEE #5787",
+        "Pe_Description": "RESTAURANT (31-60) SEATS LOW RISK",
+        "Address": "1788 WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804322,
+        "Long": -118.169851
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169851,
+          33.804322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "3/6/2019",
+        "Restaurant_Name": "CURLEY'S CAFE",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "1999 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 79,
+        "Grade": "C",
+        "Lat": 33.804478,
+        "Long": -118.16793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16793,
+          33.804478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "3/20/2019",
+        "Restaurant_Name": "APPLEBEE'S NEIGHBORHOOD GRILL & BAR",
+        "Pe_Description": "RESTAURANT (151 + ) SEATS HIGH RISK",
+        "Address": "899 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.811641,
+        "Long": -118.18168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18168,
+          33.811641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "3/19/2019",
+        "Restaurant_Name": "BLACK BEAR DINER",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "1898 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 81,
+        "Grade": "B",
+        "Lat": 33.804323,
+        "Long": -118.168765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.168765,
+          33.804323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "3/19/2019",
+        "Restaurant_Name": "KASHIWA RESTAURANT",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST STE #G",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 92,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "3/26/2019",
+        "Restaurant_Name": "FISH-O-LICIOUS SIGNAL HILL",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2594 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 79,
+        "Grade": "C",
+        "Lat": 33.803759,
+        "Long": -118.167519
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.167519,
+          33.803759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "2/15/2019",
+        "Restaurant_Name": "PANINIS",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "1825 REDONDO AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.790646,
+        "Long": -118.151818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.151818,
+          33.790646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "3/12/2019",
+        "Restaurant_Name": "GOLDEN EAGLE RESTAURANT",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2101 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 88,
+        "Grade": "B",
+        "Lat": 33.804486,
+        "Long": -118.166194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166194,
+          33.804486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "3/12/2019",
+        "Restaurant_Name": "ROCCO'S DELI ITALIANO",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2420 E 28TH ST STE 1",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.808036,
+        "Long": -118.162505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.162505,
+          33.808036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "2/14/2019",
+        "Restaurant_Name": "WABA GRILL",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2162 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.804324,
+        "Long": -118.166393
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166393,
+          33.804324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "3/14/2019",
+        "Restaurant_Name": "STARBUCKS",
+        "Pe_Description": "RESTAURANT (31-60) SEATS LOW RISK",
+        "Address": "999 SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 93,
+        "Grade": "A",
+        "Lat": 33.811642,
+        "Long": -118.180677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.180677,
+          33.811642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "3/6/2019",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - DELI DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 96,
+        "Grade": "A",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "2/20/2019",
+        "Restaurant_Name": "BIG E PIZZA",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "3225 E PACIFIC COAST HWY STE C",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 87,
+        "Grade": "B",
+        "Lat": 33.789853,
+        "Long": -118.153836
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.153836,
+          33.789853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "3/6/2019",
+        "Restaurant_Name": "FANTASY CASTLE",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2800 E WALNUT AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 92,
+        "Grade": "A",
+        "Lat": 33.808537,
+        "Long": -118.171997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.171997,
+          33.808537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/14/2019",
+        "Restaurant_Name": "CHINESE COMBO",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2160 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804321,
+        "Long": -118.166498
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166498,
+          33.804321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/7/2019",
+        "Restaurant_Name": "ROCCO'S DELI ITALIANO",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2420 E 28TH ST STE 1",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 81,
+        "Grade": "B",
+        "Lat": 33.808036,
+        "Long": -118.162505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.162505,
+          33.808036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/1/2019",
+        "Restaurant_Name": "CHAMPS DELI RESTAURANT",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "3200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 96,
+        "Grade": "A",
+        "Lat": 33.804359,
+        "Long": -118.154139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.154139,
+          33.804359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/30/2019",
+        "Restaurant_Name": "CHIPOTLE MEXICAN GRILL #2320",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "959 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 97,
+        "Grade": "A",
+        "Lat": 33.811642,
+        "Long": -118.181092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.181092,
+          33.811642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/14/2019",
+        "Restaurant_Name": "JACK IN THE BOX #5409",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "801 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.81164,
+        "Long": -118.182507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.182507,
+          33.81164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/9/2019",
+        "Restaurant_Name": "FANTASY CASTLE",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2800 E WALNUT AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 87,
+        "Grade": "B",
+        "Lat": 33.808537,
+        "Long": -118.171997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.171997,
+          33.808537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/25/2019",
+        "Restaurant_Name": "SUBWAY",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "3225 E PACIFIC COAST HWY",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 88,
+        "Grade": "B",
+        "Lat": 33.789853,
+        "Long": -118.153836
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.153836,
+          33.789853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "4/24/2019",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - PIZZA KITCHEN",
+        "Pe_Description": "RESTAURANT (61-150) SEATS MODERATE RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/14/2019",
+        "Restaurant_Name": "TOGO'S",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "1889 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.804472,
+        "Long": -118.168869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.168869,
+          33.804472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/25/2019",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - DELI DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 93,
+        "Grade": "A",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/21/2019",
+        "Restaurant_Name": "SUBWAY # 13507",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "2150 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 86,
+        "Grade": "B",
+        "Lat": 33.80432,
+        "Long": -118.166525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166525,
+          33.80432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/27/2019",
+        "Restaurant_Name": "MEMORIAL WEST ALUMNI",
+        "Pe_Description": "RESTAURANT (0-30) SEATS LOW RISK",
+        "Address": "835 E 33RD ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 94,
+        "Grade": "A",
+        "Lat": 33.817058,
+        "Long": -118.182054
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.182054,
+          33.817058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/28/2019",
+        "Restaurant_Name": "SUB KING",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST E",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 96,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/2/2019",
+        "Restaurant_Name": "MCDONALD'S #23514",
+        "Pe_Description": "RESTAURANT (61-150) SEATS MODERATE RISK",
+        "Address": "2599 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 92,
+        "Grade": "A",
+        "Lat": 33.803972,
+        "Long": -118.167683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.167683,
+          33.803972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/2/2019",
+        "Restaurant_Name": "CHINESE GOURMET",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "1810 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 92,
+        "Grade": "A",
+        "Lat": 33.804328,
+        "Long": -118.169427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169427,
+          33.804328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/9/2019",
+        "Restaurant_Name": "DEL TACO #984",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "1801 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804471,
+        "Long": -118.169256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169256,
+          33.804471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/18/2019",
+        "Restaurant_Name": "MOTHER'S MARKET AND KITCHEN - DELI & JUICE BAR",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "2475 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 87,
+        "Grade": "B",
+        "Lat": 33.802063,
+        "Long": -118.16769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16769,
+          33.802063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "6/20/2019",
+        "Restaurant_Name": "BLACK BEAR DINER",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "1898 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 71,
+        "Grade": "C",
+        "Lat": 33.804323,
+        "Long": -118.168765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.168765,
+          33.804323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "4/30/2019",
+        "Restaurant_Name": "5 STAR TERIYAKI & BBQ",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST #B",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 93,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "5/29/2019",
+        "Restaurant_Name": "FOOD 4 LESS #772 - DELI DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "1600 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.804303,
+        "Long": -118.170487
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.170487,
+          33.804303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "4/24/2019",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - BAKERY DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 96,
+        "Grade": "A",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/24/2019",
+        "Restaurant_Name": "PANINIS",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "1825 REDONDO AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.790646,
+        "Long": -118.151818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.151818,
+          33.790646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/16/2019",
+        "Restaurant_Name": "BIG E PIZZA",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "3225 E PACIFIC COAST HWY STE C",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 87,
+        "Grade": "B",
+        "Lat": 33.789853,
+        "Long": -118.153836
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.153836,
+          33.789853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/14/2019",
+        "Restaurant_Name": "5 STAR TERIYAKI & BBQ",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST #B",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 96,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "9/4/2019",
+        "Restaurant_Name": "CHINESE GOURMET",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "1810 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 88,
+        "Grade": "B",
+        "Lat": 33.804328,
+        "Long": -118.169427
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169427,
+          33.804328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/10/2019",
+        "Restaurant_Name": "MATT AND NAT BAKERY GROUP",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "2325 REDONDO AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 100,
+        "Grade": "A",
+        "Lat": 33.799058,
+        "Long": -118.151391
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.151391,
+          33.799058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "9/4/2019",
+        "Restaurant_Name": "SUB KING",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST E",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 96,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "9/12/2019",
+        "Restaurant_Name": "SUBWAY # 13507",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "2150 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 89,
+        "Grade": "B",
+        "Lat": 33.80432,
+        "Long": -118.166525
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166525,
+          33.80432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/15/2019",
+        "Restaurant_Name": "GD BRO BURGER",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "1798 E WILLOW ST # B",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 92,
+        "Grade": "A",
+        "Lat": 33.804328,
+        "Long": -118.169615
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169615,
+          33.804328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/24/2019",
+        "Restaurant_Name": "JACK IN THE BOX #213",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "3399 E PACIFIC COAST HWY",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 85,
+        "Grade": "B",
+        "Lat": 33.789851,
+        "Long": -118.152197
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.152197,
+          33.789851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/10/2019",
+        "Restaurant_Name": "GOLDEN EAGLE RESTAURANT",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2101 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 74,
+        "Grade": "C",
+        "Lat": 33.804486,
+        "Long": -118.166194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166194,
+          33.804486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/15/2019",
+        "Restaurant_Name": "MANNA DONUTS",
+        "Pe_Description": "RESTAURANT (0-30) SEATS MODERATE RISK",
+        "Address": "3199 E PACIFIC COAST HWY # 105",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.789853,
+        "Long": -118.155009
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.155009,
+          33.789853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/26/2019",
+        "Restaurant_Name": "KASHIWA RESTAURANT",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "2201 E WILLOW ST STE #G",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 97,
+        "Grade": "A",
+        "Lat": 33.804483,
+        "Long": -118.164604
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.164604,
+          33.804483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "9/11/2019",
+        "Restaurant_Name": "FISH-O-LICIOUS SIGNAL HILL",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "2594 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 77,
+        "Grade": "C",
+        "Lat": 33.803759,
+        "Long": -118.167519
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.167519,
+          33.803759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/25/2019",
+        "Restaurant_Name": "CHIPOTLE MEXICAN GRILL #2320",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "959 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.811642,
+        "Long": -118.181092
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.181092,
+          33.811642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/25/2019",
+        "Restaurant_Name": "CHAMPS DELI RESTAURANT",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "3200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.804359,
+        "Long": -118.154139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.154139,
+          33.804359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "8/6/2019",
+        "Restaurant_Name": "WABA GRILL",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2162 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 91,
+        "Grade": "A",
+        "Lat": 33.804324,
+        "Long": -118.166393
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166393,
+          33.804324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/17/2019",
+        "Restaurant_Name": "IN-N-OUT BURGER #265",
+        "Pe_Description": "RESTAURANT (61-150) SEATS MODERATE RISK",
+        "Address": "799 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 93,
+        "Grade": "A",
+        "Lat": 33.811698,
+        "Long": -118.183374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.183374,
+          33.811698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "9/4/2019",
+        "Restaurant_Name": "MCDONALD'S #23514",
+        "Pe_Description": "RESTAURANT (61-150) SEATS MODERATE RISK",
+        "Address": "2599 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 94,
+        "Grade": "A",
+        "Lat": 33.803972,
+        "Long": -118.167683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.167683,
+          33.803972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/23/2019",
+        "Restaurant_Name": "THE PALMS",
+        "Pe_Description": "RESTAURANT (61-150) SEATS LOW RISK",
+        "Address": "2540 N PALM DR",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 72,
+        "Grade": "C",
+        "Lat": 33.803163,
+        "Long": -118.155364
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.155364,
+          33.803163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "7/25/2019",
+        "Restaurant_Name": "APPLEBEE'S NEIGHBORHOOD GRILL & BAR",
+        "Pe_Description": "RESTAURANT (151 + ) SEATS HIGH RISK",
+        "Address": "899 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 90,
+        "Grade": "A",
+        "Lat": 33.811641,
+        "Long": -118.18168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18168,
+          33.811641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "9/5/2019",
+        "Restaurant_Name": "FOOD 4 LESS #772 - DELI DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "1600 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 89,
+        "Grade": "B",
+        "Lat": 33.804303,
+        "Long": -118.170487
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.170487,
+          33.804303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/10/2019",
+        "Restaurant_Name": "STARBUCKS COFFEE #5787",
+        "Pe_Description": "RESTAURANT (31-60) SEATS LOW RISK",
+        "Address": "1788 WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 89,
+        "Grade": "B",
+        "Lat": 33.804322,
+        "Long": -118.169851
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.169851,
+          33.804322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/9/2019",
+        "Restaurant_Name": "TUTTI FRUTTI FROZEN YOGURT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS LOW RISK",
+        "Address": "2170 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 75,
+        "Grade": "C",
+        "Lat": 33.80433,
+        "Long": -118.16621
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16621,
+          33.80433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/9/2019",
+        "Restaurant_Name": "CURLEY'S CAFE",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "1999 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 81,
+        "Grade": "B",
+        "Lat": 33.804478,
+        "Long": -118.16793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16793,
+          33.804478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/9/2019",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - DELI DEPT",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 94,
+        "Grade": "A",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/9/2019",
+        "Restaurant_Name": "CHINESE COMBO",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2160 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 97,
+        "Grade": "A",
+        "Lat": 33.804321,
+        "Long": -118.166498
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.166498,
+          33.804321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/8/2019",
+        "Restaurant_Name": "MOTHER'S MARKET AND KITCHEN - DELI & JUICE BAR",
+        "Pe_Description": "RESTAURANT (31-60) SEATS HIGH RISK",
+        "Address": "2475 CHERRY AVE",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 88,
+        "Grade": "B",
+        "Lat": 33.802063,
+        "Long": -118.16769
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16769,
+          33.802063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "11/5/2019",
+        "Restaurant_Name": "BLACK BEAR DINER",
+        "Pe_Description": "RESTAURANT (61-150) SEATS HIGH RISK",
+        "Address": "1898 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 83,
+        "Grade": "B",
+        "Lat": 33.804323,
+        "Long": -118.168765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.168765,
+          33.804323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "11/4/2019",
+        "Restaurant_Name": "ROCCO'S DELI ITALIANO",
+        "Pe_Description": "RESTAURANT (0-30) SEATS HIGH RISK",
+        "Address": "2420 E 28TH ST STE 1",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 84,
+        "Grade": "B",
+        "Lat": 33.808036,
+        "Long": -118.162505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.162505,
+          33.808036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/9/2019",
+        "Restaurant_Name": "TARGET #2319 - FOOD SERVICE",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "950 E 33RD ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 97,
+        "Grade": "A",
+        "Lat": 33.817057,
+        "Long": -118.181773
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.181773,
+          33.817057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "11/4/2019",
+        "Restaurant_Name": "TOGO'S",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "1889 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 87,
+        "Grade": "B",
+        "Lat": 33.804472,
+        "Long": -118.168869
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.168869,
+          33.804472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/10/2019",
+        "Restaurant_Name": "STARBUCKS",
+        "Pe_Description": "RESTAURANT (31-60) SEATS LOW RISK",
+        "Address": "999 SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 85,
+        "Grade": "B",
+        "Lat": 33.811642,
+        "Long": -118.180677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.180677,
+          33.811642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "10/9/2019",
+        "Restaurant_Name": "COSTCO WHOLESALE #424 - PIZZA KITCHEN",
+        "Pe_Description": "RESTAURANT (61-150) SEATS MODERATE RISK",
+        "Address": "2200 E WILLOW ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 94,
+        "Grade": "A",
+        "Lat": 33.804339,
+        "Long": -118.165107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.165107,
+          33.804339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Inspection_date": "12/10/2019",
+        "Restaurant_Name": "JACK IN THE BOX #5409",
+        "Pe_Description": "RESTAURANT (31-60) SEATS MODERATE RISK",
+        "Address": "801 E SPRING ST",
+        "CITY": "SIGNAL HILL",
+        "State": "CA",
+        "Zip_Code": 90755,
+        "Service_Description": "ROUTINE INSPECTION",
+        "Score": 95,
+        "Grade": "A",
+        "Lat": 33.81164,
+        "Long": -118.182507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.182507,
+          33.81164
+        ]
+      }
+    }
+  ]
+}
